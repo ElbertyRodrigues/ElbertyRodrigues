@@ -53,7 +53,6 @@ Busco oportunidades para atuar em times que valorizem a qualidade técnica, onde
 
 ---
 
-### 🤖 Linguagens e Tecnologias
 ### 🛠️ Minhas Tecnologias
 
 **Backend**<br/>
