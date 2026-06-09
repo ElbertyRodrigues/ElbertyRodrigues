@@ -23,7 +23,7 @@ Criei duas aplicações voltadas ao ambiente corporativo com o objetivo de otimi
 
 Backend: Java, Python, Ecossistema Spring (Boot, MVC, Data JPA, Security)
 
-Frontend: React, Js e Tailwind 
+Frontend: React, JavaScript e Tailwind 
 
 Bancos de Dados: PostgreSQL, MySQL, SQL Server e Oracle (PL/SQL)
 
