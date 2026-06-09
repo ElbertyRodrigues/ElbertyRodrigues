@@ -31,7 +31,7 @@ Infraestrutura & Cloud: Docker, AWS, Azure
 
 Versionamento: Git / GitHub
 
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d8c12110-3313-408f-b335-dd3907445e87/den4gwr-327c7f7d-aa9c-4514-ae60-a648c8c89c00.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9kOGMxMjExMC0zMzEzLTQwOGYtYjMzNS1kZDM5MDc0NDVlODcvZGVuNGd3ci0zMjdjN2Y3ZC1hYTljLTQ1MTQtYWU2MC1hNjQ4YzhjODljMDAucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8nfXjE7CkQ4XYHJbqChlBSJ4W3VjVPcXvZGYegAEstw"/>Objetivo Atual
+<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/shiny/717.png"/>Objetivo Atual
 Busco oportunidades para atuar em times que valorizem a qualidade técnica, onde eu possa contribuir ativamente para o desenvolvimento de soluções robustas enquanto continuo evoluindo na minha carreira.
 
 <p align="left">
@@ -53,6 +53,7 @@ Busco oportunidades para atuar em times que valorizem a qualidade técnica, onde
 
 ---
 
+### 🤖 Linguagens e Tecnologias
 ### 🛠️ Minhas Tecnologias
 
 **Backend**<br/>
@@ -105,6 +106,17 @@ Busco oportunidades para atuar em times que valorizem a qualidade técnica, onde
 * **Cloud & DevOps:** EC2, S3, RDS, Lambda, CI/CD.
 
 ---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=ElbertyRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
 <img 
       align="left" 
