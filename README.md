@@ -123,8 +123,6 @@ Busco oportunidades para atuar em times que valorizem a qualidade técnica, onde
 
 ---
 
-### 🐍 Cobrinha comendo minhas contribuições
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ElbertyRodrigues/ElbertyRodrigues/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElbertyRodrigues/ElbertyRodrigues/output/github-contribution-grid-snake.svg" />
